@@ -1,0 +1,14 @@
+.navlinks{
+display: flex;
+justify-content: space-around;
+}
+
+.active-class{
+    color: blue;
+    font-size: larger;
+}
+.userCls{
+    border-radius: 2px;
+    border: 1px solid grey;
+
+}
